@@ -5,7 +5,8 @@ This project allows an user to generate a random password based on their choice 
 
 ## Tasks Assigned
 ```
-As an employee with access to sensitive data, he or she would like to randomly generate a password that meets certain criteria. This pass generator should be able to provide strong password under the criteria and perform high security.
+As an employee with access to sensitive data, he or she would like to randomly generate a password that meets certain criteria. 
+This pass generator should be able to provide strong password under the criteria and perform high security.
 ```
 
 ## Tasks Completed
